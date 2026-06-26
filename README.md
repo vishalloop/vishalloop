@@ -1,78 +1,102 @@
-# 👋 Hey, I'm Vishal Raj
+<h1 align="center">Vishal Raj</h1>
 
-🚀 **Builder | Web Developer | AI Explorer | Hackathon Team Lead**  
-💡 Turning ideas into working products — fast, clean, and scalable
-
----
-
-## 🧠 About Me
-
-I’m a **problem-solver at heart** who loves building things from scratch — whether it’s a web app, an AI-powered system, or a startup idea that hasn’t even launched yet.
-
-I believe in **learning by building**, **failing fast**, and **shipping faster**.
-
-- 🏆 **Hackathon Winner & Finalist** (BPuT Hackathon, SIH)
-- 👨‍💻 **Team Leader** at national-level hackathons
-- 🌱 Currently diving deep into **Backend, Cloud, and AI**
-- 🧩 Obsessed with clean architecture & real-world problem solving
+<p align="center">
+Full-Stack Software Engineer • Cloud • AI • Distributed Systems
+</p>
 
 ---
 
-## 🛠️ Tech Stack (What I Actually Use)
+## About
 
-### 🌐 Frontend
-- HTML5, CSS3 (Advanced layouts, animations, responsive design)
-- JavaScript (DOM, Events, Async, APIs)
-- React.js (Hooks, Components, State Management)
+I'm a software engineering student focused on building production-grade systems rather than small demonstration projects.
 
-### ⚙️ Backend
+My interests include backend engineering, cloud infrastructure, distributed systems, AI-powered applications, and developer tooling. I enjoy understanding how modern software works behind the scenes—from architecture and deployment to scalability and reliability.
+
+Currently working on:
+
+- FrontendForge — AI-powered Cloud IDE
+- Data Structures & Algorithms
+- System Design
+
+---
+
+## Featured Projects
+
+### FrontendForge
+
+AI-powered cloud development platform built around isolated execution environments and modern cloud-native architecture.
+
+**Core Technologies**
+
+- React
+- TypeScript
 - Node.js
-- Express.js
-- REST APIs
-- MongoDB & Mongoose
-
-### ☁️ Cloud & DevOps (Learning → Implementing)
-- AWS & Azure fundamentals
-- Deployment & environment setup
-- Basic system design concepts
-
-### 🤖 AI / ML (Exploring & Building)
-- AI-powered workflows
-- AI avatars for documentary-style content
-- Using AI tools to build faster & smarter
+- Docker
+- Kubernetes
+- Redis
+- RabbitMQ
+- Socket.io
+- AWS
 
 ---
 
-## 🏃‍♂️ How I Learn
+### Smart Crop Advisory System
 
-- 📘 Break concepts down to **first principles**
-- 🧱 Build mini-projects for every topic
-- 🔍 Ask *why*, not just *how*
-- 🔁 Iterate until it feels intuitive
-
-If I can explain a topic to a beginner — I know I truly understand it.
+An AI-assisted platform that helps farmers with crop recommendations, disease detection, weather insights, and market price analysis.
 
 ---
 
-## 📈 Current Focus
+## Technologies
 
-- Advanced JavaScript & Backend Architecture
-- System Design Basics
-- Cloud Deployment
-- AI-assisted product development
-- Open-source & real-world projects
+### Languages
+
+TypeScript • JavaScript • C++ • Python
+
+### Frontend
+
+React • Next.js • Tailwind CSS
+
+### Backend
+
+Node.js • Express • REST APIs • JWT • OAuth
+
+### Databases
+
+MongoDB • Redis • Pinecone
+
+### Cloud & DevOps
+
+AWS • Docker • Kubernetes • GitHub Actions • CI/CD
+
+### AI
+
+LangGraph • RAG • Vector Databases • OpenAI • Gemini
 
 ---
 
-## 🤝 Let’s Connect
+## GitHub Statistics
 
-- 💼 LinkedIn: www.linkedin.com/in/vishal-raj-b03511250
-- 📫 Email: vishalkataroo@gmail.com
+<!-- GitHub Stats -->
 
 ---
 
-### ⚡ Fun Fact
-I don’t just learn tech —  
-I **stress-test it by building things that actually work**.
+## Currently Learning
 
-> *“Code is not just syntax. It’s thinking, structure, and intent.”*
+- Advanced DSA
+- System Design
+- Distributed Systems
+- Cloud Architecture
+
+---
+
+## Contact
+
+Portfolio
+
+LinkedIn
+
+Email
+
+---
+
+> "The best way to understand systems is to build them."
