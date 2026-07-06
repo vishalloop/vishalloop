@@ -1,102 +1,87 @@
-<h1 align="center">Vishal Raj</h1>
+# Vishal Raj
 
-<p align="center">
-Full-Stack Software Engineer • Cloud • AI • Distributed Systems
-</p>
+Software Engineering student passionate about building scalable software, AI-powered applications, and cloud-native systems.
 
----
+I enjoy solving engineering problems involving distributed systems, backend architecture, retrieval-augmented generation (RAG), real-time applications, and developer tooling.
 
-## About
-
-I'm a software engineering student focused on building production-grade systems rather than small demonstration projects.
-
-My interests include backend engineering, cloud infrastructure, distributed systems, AI-powered applications, and developer tooling. I enjoy understanding how modern software works behind the scenes—from architecture and deployment to scalability and reliability.
-
-Currently working on:
-
-- FrontendForge — AI-powered Cloud IDE
-- Data Structures & Algorithms
-- System Design
+Currently focused on Full Stack Development, Artificial Intelligence, and Cloud Engineering.
 
 ---
 
 ## Featured Projects
 
-### FrontendForge
+### GenChat
+Production-grade AI chat application built with Retrieval-Augmented Generation (RAG), semantic search, vector databases, and real-time response streaming.
 
-AI-powered cloud development platform built around isolated execution environments and modern cloud-native architecture.
-
-**Core Technologies**
-
-- React
-- TypeScript
-- Node.js
-- Docker
-- Kubernetes
-- Redis
-- RabbitMQ
-- Socket.io
-- AWS
+**Tech:** Next.js • TypeScript • MongoDB • Redis • Pinecone • Groq
 
 ---
 
-### Smart Crop Advisory System
+### ResumeCraft
+AI-powered resume builder featuring ATS optimization, cloud synchronization, and one-click PDF generation.
 
-An AI-assisted platform that helps farmers with crop recommendations, disease detection, weather insights, and market price analysis.
+**Tech:** Next.js • TypeScript • MongoDB • Redis • Gemini
 
 ---
 
-## Technologies
+### VibeSync
+AI-powered music recommendation platform using real-time facial expression recognition and emotion-aware recommendations.
+
+**Tech:** React • Express • MongoDB • MediaPipe • Redis
+
+---
+
+## Tech Stack
 
 ### Languages
 
-TypeScript • JavaScript • C++ • Python
+C++ • JavaScript • TypeScript • Python
 
 ### Frontend
 
-React • Next.js • Tailwind CSS
+React • Next.js • Tailwind CSS • Redux Toolkit • TanStack Query • Zustand
 
 ### Backend
 
-Node.js • Express • REST APIs • JWT • OAuth
+Node.js • Express.js • REST APIs • JWT • OAuth • Socket.IO
 
 ### Databases
 
 MongoDB • Redis • Pinecone
 
-### Cloud & DevOps
-
-AWS • Docker • Kubernetes • GitHub Actions • CI/CD
-
 ### AI
 
-LangGraph • RAG • Vector Databases • OpenAI • Gemini
+LangGraph • RAG • Vector Embeddings • Gemini • OpenAI • Groq
+
+### Cloud
+
+Docker • AWS • Git • Linux
 
 ---
 
-## GitHub Statistics
+## Achievements
 
-<!-- GitHub Stats -->
+- Smart India Hackathon Finalist
+- 1st Place – Build-a-thon
+- 1st Place – Mobile App Development
+- 1st Place – Ideathon
+- Runner-up – BPUT Hackathon
 
 ---
 
 ## Currently Learning
 
-- Advanced DSA
-- System Design
-- Distributed Systems
-- Cloud Architecture
+- Advanced Data Structures & Algorithms
+- React Native
+- Production System Design
+- AWS Cloud Architecture
 
 ---
 
-## Contact
+## Connect
 
-Portfolio
+Portfolio: https://vishal-protfolio-eta.vercel.app
 
-LinkedIn
+LinkedIn: https://linkedin.com/in/vishal-raj-b03511250
 
-Email
-
----
-
-> "The best way to understand systems is to build them."
+Email: vishalkataroo@gmail.com
